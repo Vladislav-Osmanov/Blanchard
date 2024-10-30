@@ -94,7 +94,7 @@
 @media (max-width: 1024px) {
   .hero {
     padding: 102px 0 100px 0;
-    background-image: url(../Img/birmingham1024.jpg);
+    background-image: url(../img/birmingham1024.jpg);
   }
 
   .hero__title {
@@ -115,7 +115,7 @@
   }
 
   .gallery {
-    background-image: url(../Img/birmingham-museums1024.jpg);
+    background-image: url(../img/birmingham-museums1024.jpg);
   }
 
   .catalog {
@@ -267,7 +267,7 @@
 @media (max-width: 768px) {
   .hero {
     padding: 87px 0 86px 0;
-    background-image: url(../Img/birmingham768.jpg);
+    background-image: url(../img/birmingham768.jpg);
   }
 
   .hero__title {
@@ -286,7 +286,7 @@
   .gallery {
     padding-top: 80px;
     padding-bottom: 80px;
-    background-image: url(../Img/birmingham-museums768.jpg);
+    background-image: url(../img/birmingham-museums768.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -540,7 +540,7 @@
   .gallery {
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url(../Img/birmingham-museums320.jpg);
+    background-image: url(../img/birmingham-museums320.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
