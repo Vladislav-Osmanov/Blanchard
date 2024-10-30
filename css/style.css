@@ -226,7 +226,7 @@ body {
 
 .hero {
   padding: 145px 0 146px 0;
-  background-image: url(../Img/birmingham.jpg);
+  background-image: url(../img/birmingham.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
@@ -319,7 +319,7 @@ body {
 .gallery {
   padding-top: 80px;
   padding-bottom: 80px;
-  background-image: url(../Img/birmingham-museums.jpg);
+  background-image: url(../img/birmingham-museums.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -620,21 +620,21 @@ body {
 
 .events-image1 {
   padding: 313px 31px 43px 50px;
-  background-image: url(../Img/book-engraving.jpg);
+  background-image: url(../img/book-engraving.jpg);
   background-repeat: no-repeat;
   border: 1px solid var(--color-snowblac);
 }
 
 .events-image2 {
   padding: 313px 50px 48px 50px;
-  background-image: url(../Img/open-discussion.jpg);
+  background-image: url(../img/open-discussion.jpg);
   background-repeat: no-repeat;
   border: 1px solid var(--color-snowblac);
 }
 
 .events-image3 {
   padding: 313px 50px 48px 50px;
-  background-image: url(../Img/exhibition.jpg);
+  background-image: url(../img/exhibition.jpg);
   background-repeat: no-repeat;
   border: 1px solid var(--color-snowblac);
 }
